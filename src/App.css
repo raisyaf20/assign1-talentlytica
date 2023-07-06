@@ -1,0 +1,14 @@
+#root {
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.container {
+  width: 1210px;
+  margin: 0 auto;
+}
+
+table {
+  width: 100%;
+}
